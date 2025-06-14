@@ -1,0 +1,48 @@
+{
+  "name": "Bagu Coin",
+  "symbol": "BAGU",
+  "description": "BAGU — grab your bag, join the pump, and ride the madness. BAGU UP 🚀",
+  "image": "https://raw.githubusercontent.com/FrancisNjuguna/bagu-metadata/main/bagulogo.png",
+  "animation_url": "https://raw.githubusercontent.com/FrancisNjuguna/bagu-metadata/main/baguheaderimage.png",
+  "external_url": "https://bagucoin.com",
+  "attributes": [
+    {
+      "trait_type": "Meme Strength",
+      "value": "Ultra"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Solana"
+    }
+  ],
+  "collection": {
+    "name": "Meme Coins 2025",
+    "family": "Solana Memeverse"
+  },
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/FrancisNjuguna/bagu-metadata/main/bagulogo.png",
+        "type": "image/png"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/FrancisNjuguna/bagu-metadata/main/baguheaderimage.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "dad9jeW8NZ19o1ztjgAUKSorUydCtHHEhMARKtUDx4W",
+        "share": 100,
+        "verified": true
+      }
+    ]
+  },
+  "socials": {
+    "twitter": "https://twitter.com/bagucoin",
+    "facebook": "https://facebook.com/bagucoin",
+    "telegram": "https://t.me/bagucoin",
+    "website": "https://bagucoin.com"
+  }
+}
